@@ -1,2 +1,1 @@
-# primero
-mi primer repositorio
+este es primer commit de prueba
